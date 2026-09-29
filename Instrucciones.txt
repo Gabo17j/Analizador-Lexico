@@ -1,0 +1,4 @@
+Entregable#3_Xoná Nolasco_Solórzano Estrada_Pop Ramírez_Caal Xol
+1. Abrir `Analizador Lexico.sln` en Visual Studio (.NET Framework 4.7.2).
+2. Establecer `Analizador Lexico.Pruebas` como proyecto de inicio y ejecutar (Ctrl+F5).
+3. Salida: resumen de casos y el archivo `bin\Debug\resultados_pruebas.txt` (evidencia de ejecución).
