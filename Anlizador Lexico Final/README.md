@@ -27,13 +27,3 @@ Atajos:
 `F5` analizar 
 `Ctrl+O` abrir
 `Ctrl+E` exportar.
-
-## Release final (Git)
-
-git add .
-git commit -m "Entrega final: interfaz, pruebas y documentacion"
-git tag -a v1.0-final -m "Entrega final"
-git push origin main --tags
-```
-
-En GitHub: *Releases → Draft a new release →* elegir el tag `v1.0-final` y adjuntar la memoria final en PDF.
