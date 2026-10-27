@@ -1,0 +1,17 @@
+/*
+ Prueba Media - Estructuras de Control
+*/
+public class Calculadora
+{
+    public bool EsPar(int numero)
+    {
+        if (numero % 2 == 0)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+}

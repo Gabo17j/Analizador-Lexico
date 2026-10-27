@@ -1,0 +1,11 @@
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\bin\Debug\Archivos\Prueba_Errores.txt
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\bin\Debug\Archivos\Prueba_Errores_Extra1.txt
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\bin\Debug\Archivos\Prueba_Errores_Extra2.txt
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\bin\Debug\Archivos\Prueba_Media.txt
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\bin\Debug\Archivos\Prueba_Sencilla.txt
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\bin\Debug\Analizador Lexico.Pruebas.exe
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\bin\Debug\Analizador Lexico.Pruebas.pdb
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\obj\Debug\Analizador Lexico.Pruebas.csproj.AssemblyReference.cache
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\obj\Debug\Analizador Lexico.Pruebas.csproj.CoreCompileInputs.cache
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\obj\Debug\Analizador Lexico.Pruebas.exe
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico.Pruebas\obj\Debug\Analizador Lexico.Pruebas.pdb

@@ -1,0 +1,11 @@
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\bin\Debug\Analizador Lexico.exe.config
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\bin\Debug\Analizador Lexico.exe
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\bin\Debug\Analizador Lexico.pdb
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.AssemblyReference.cache
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\obj\Debug\Analizador_Lexico.Properties.Resources.resources
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.GenerateResource.cache
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.CoreCompileInputs.cache
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\obj\Debug\Analizador Lexico.exe
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\obj\Debug\Analizador Lexico.pdb
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\obj\Debug\Analizador Lexico.exe.config
+C:\Users\steva\OneDrive\Escritorio\01\Analizador Lexico\obj\Debug\Analizador_Lexico.Views.FrmPrincipal.resources

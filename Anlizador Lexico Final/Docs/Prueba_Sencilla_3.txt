@@ -1,0 +1,6 @@
+// Prueba Sencilla 3 - Aritmetica y asignaciones compuestas
+int a = 5;
+int b = 3;
+a += b;
+b = a * 2 - 1;
+a++;

@@ -1,0 +1,6 @@
+char a = 'abc';
+char b = '';
+char c = 'z';
+bool ok = x & y;
+string s = "tab\qx";
+int fin = 1;

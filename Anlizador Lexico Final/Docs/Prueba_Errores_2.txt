@@ -1,0 +1,4 @@
+int 7dias = 7;
+double tasa = 3.5 @ 2;
+char c = 'xyz';
+bool ok = true;
