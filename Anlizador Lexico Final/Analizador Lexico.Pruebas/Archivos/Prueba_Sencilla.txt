@@ -1,5 +1,0 @@
-// Prueba Básica - Declaración y Asignación
-int x = 10;
-int y = 20;
-int suma = x + y;
-Console.WriteLine(suma);
