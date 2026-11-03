@@ -1,0 +1,4 @@
+// Prueba Sencilla 4 - Relacionales y logicos
+int edad = 18;
+bool mayor = edad >= 18 && edad != 0;
+bool no = !mayor || edad < 5;

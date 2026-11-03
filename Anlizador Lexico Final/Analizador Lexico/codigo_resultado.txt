@@ -1,0 +1,70 @@
+﻿==================== codigo ====================
+--- TOKENS ---
+#     Lexema                     Tipo de token        Categoría          Línea/Col
+1     private                    TK_PR_PALABRA        Palabra Reservada  1/1
+2     static                     TK_PR_PALABRA        Palabra Reservada  1/9
+3     void                       TK_PR_PALABRA        Palabra Reservada  1/16
+4     Mostrar                    TK_IDENTIFICADOR     Identificador      1/21
+5     (                          TK_PAR_IZQ           Delimitador        1/29
+6     )                          TK_PAR_DER           Delimitador        1/30
+7     {                          TK_LLAVE_IZQ         Delimitador        2/1
+8     int                        TK_PR_PALABRA        Palabra Reservada  3/2
+9     k                          TK_IDENTIFICADOR     Identificador      3/6
+10    =                          TK_OP_ASIGNACION     Op. Asignación     3/8
+11    0                          TK_NUM_ENTERO        Número Entero      3/10
+12    string                     TK_PR_PALABRA        Palabra Reservada  4/2
+13    msg                        TK_IDENTIFICADOR     Identificador      4/9
+14    =                          TK_OP_ASIGNACION     Op. Asignación     4/13
+15    "linea\n\t\"ok\""          TK_CADENA            Literal Cadena     4/15
+16    ;                          TK_PUNTO_COMA        Delimitador        4/32
+17    do                         TK_PR_PALABRA        Palabra Reservada  5/2
+18    {                          TK_LLAVE_IZQ         Delimitador        6/2
+19    k                          TK_IDENTIFICADOR     Identificador      7/5
+20    +=                         TK_OP_ASIG_SUMA      Op. Asignación     7/7
+21    2                          TK_NUM_ENTERO        Número Entero      7/10
+22    ;                          TK_PUNTO_COMA        Delimitador        7/11
+23    }                          TK_LLAVE_DER         Delimitador        8/2
+24    while                      TK_PR_PALABRA        Palabra Reservada  9/3
+25    (                          TK_PAR_IZQ           Delimitador        9/9
+26    k                          TK_IDENTIFICADOR     Identificador      9/10
+27    <                          TK_OP_MENOR          Op. Relacional     9/12
+28    6                          TK_NUM_ENTERO        Número Entero      9/14
+29    ||                         TK_OP_OR             Op. Lógico         9/16
+30    k                          TK_IDENTIFICADOR     Identificador      9/19
+31    ==                         TK_OP_IGUALDAD       Op. Relacional     9/21
+32    7                          TK_NUM_ENTERO        Número Entero      9/24
+33    )                          TK_PAR_DER           Delimitador        9/25
+34    ;                          TK_PUNTO_COMA        Delimitador        9/26
+35    float                      TK_PR_PALABRA        Palabra Reservada  10/2
+36    f                          TK_IDENTIFICADOR     Identificador      10/8
+37    =                          TK_OP_ASIGNACION     Op. Asignación     10/10
+38    0.25                       TK_NUM_DECIMAL       Número Decimal     10/11
+39    ;                          TK_PUNTO_COMA        Delimitador        10/15
+40    }                          TK_LLAVE_DER         Delimitador        11/1
+
+--- TABLA DE SÍMBOLOS ---
+Id   Lexema             Tipo de token     Tipo de dato     1ª Lín/Col Frec  Referencias
+1    Mostrar            TK_IDENTIFICADOR  Sin Especificar  1/21       1     -
+2    k                  TK_IDENTIFICADOR  int              3/6        4     7,9,9
+3    msg                TK_IDENTIFICADOR  string           4/9        1     -
+4    f                  TK_IDENTIFICADOR  float            10/8       1     -
+
+--- ERRORES LÉXICOS ---
+Sin errores léxicos.
+
+--- ESTADÍSTICAS ---
+Líneas procesadas : 11
+Total de tokens   : 40
+Total de errores  : 0
+Identificadores distintos: 4
+Tiempo de análisis: 0.029 ms
+Tokens por categoría:
+  Delimitador         12
+  Identificador       7
+  Literal Cadena      1
+  Número Decimal      1
+  Número Entero       4
+  Op. Asignación      4
+  Op. Lógico          1
+  Op. Relacional      2
+  Palabra Reservada   8

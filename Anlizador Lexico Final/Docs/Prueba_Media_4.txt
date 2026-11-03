@@ -1,0 +1,12 @@
+/* Prueba Media 4
+   do-while, cadenas con escapes y comentarios */
+private static void Mostrar()
+{
+    int k = 0;
+    string msg = "Linea\n\t\"ok\"";
+    do
+    {
+        k += 2; // incremento
+    } while (k < 6 || k == 7);
+    float f = 0.25;
+}

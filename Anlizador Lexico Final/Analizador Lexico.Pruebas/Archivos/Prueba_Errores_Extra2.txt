@@ -1,0 +1,5 @@
+int _ok = 5;
+int 9x = 1, 3.14abc = 2;
+double d = 3.;
+x = 7 # 2 @ 3;
+"sin cerrar
