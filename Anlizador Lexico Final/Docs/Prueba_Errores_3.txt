@@ -1,4 +1,0 @@
-float a = 1.2.3;
-string s = "mal\qescape";
-string t = "abierta;
-int fin = 1;
