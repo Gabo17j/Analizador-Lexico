@@ -1,0 +1,39 @@
+if
+else
+while
+for
+do
+switch
+case
+default
+break
+continue
+return
+int	*
+float	*
+double	*
+char	*
+bool	*
+string	*
+void
+class
+static
+public
+private
+true
+false
+foreach
+new
+null
+namespace
+using
+try
+catch
+finally
+throw
+long	*
+short	*
+byte	*
+decimal	*
+object	*
+var	*

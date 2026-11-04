@@ -1,0 +1,7 @@
+void Calcular() {
+    int 1erValor = 100;
+    float precio = 15.50.99;
+    string mensaje = "Hola mundo;
+    int $total = 500;
+    /* comentario sin fin
+}

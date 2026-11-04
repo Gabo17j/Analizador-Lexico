@@ -1,0 +1,13 @@
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\bin\Debug\Analizador Lexico.exe.config
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\bin\Debug\Analizador Lexico.exe
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\bin\Debug\Analizador Lexico.pdb
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.AssemblyReference.cache
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\obj\Debug\Analizador_Lexico.Properties.Resources.resources
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\obj\Debug\Analizador_Lexico.Views.DlgExportar.resources
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\obj\Debug\Analizador_Lexico.Views.FrmPrincipal.resources
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.GenerateResource.cache
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\obj\Debug\Analizador Lexico.csproj.CoreCompileInputs.cache
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\obj\Debug\Analizador Lexico.exe
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\obj\Debug\Analizador Lexico.pdb
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\obj\Debug\Analizador Lexico.exe.config
+C:\Users\steva\OneDrive\Escritorio\Analizador_Lexico_Final_v4\Proyecto\Analizador Lexico\obj\Debug\Analizador_Lexico.Views.FrmAutomatas.resources

@@ -1,0 +1,52 @@
+﻿SUITE DE PRUEBAS - MOTOR LÉXICO (Entregables 3 y 5)
+Fecha de ejecución: 2026-11-04 02:46:04
+------------------------------------------------------------------------------
+P01  APROBADO  Prueba_Sencilla.txt: tokens, posiciones y tabla de símbolos
+P02  APROBADO  Prueba_Media.txt: comentario multilínea, llaves anidadas, ==, %
+P03  APROBADO  Prueba_Errores.txt: 5 errores exactos y el análisis continúa
+P04  APROBADO  Errores extra 1: literal carácter, '&' suelto y escape inválido
+P05  APROBADO  Errores extra 2: números mal formados, '#', '@' y cadena sin cerrar en EOF
+P06  APROBADO  Sensibilidad a mayúsculas: If/WHILE/Class son identificadores
+P07  APROBADO  Operadores: mayor coincidencia (+=, ++, --, <=, >=, ==, !=, &&, ||)
+P08  APROBADO  Números: entero, decimal y '7.' separado en entero + punto
+P09  APROBADO  Cadenas y caracteres con secuencias de escape válidas
+P10  APROBADO  Saltos de línea CRLF: columnas y líneas correctas
+P11  APROBADO  Entrada vacía o solo espacios: sin tokens ni errores
+P12  APROBADO  '/*/' no cierra el comentario: error de la Regla 3 con posición
+P13  APROBADO  Tabla de símbolos: sin duplicados, frecuencia, referencias y tipo
+P14  APROBADO  Comentario de línea al final del archivo (sin salto) e IncluirComentarios
+P15  APROBADO  Reanálisis: ejecutar dos veces no duplica tokens, símbolos ni errores
+P16  APROBADO  Carácter no ASCII fuera de cadenas se reporta (Regla 4) sin detener el análisis
+------------------------------------------------------------------------------
+BATERÍA AMPLIADA (Entregable 5): casos válidos, límite, errores combinados y exportación
+------------------------------------------------------------------------------
+T01  APROBADO  Las 24 palabras reservadas se reconocen como TK_PR_PALABRA
+T02  APROBADO  Límite: identificador de 500 caracteres, '_' solo y mezcla letra/dígito/guion
+T03  APROBADO  Límite: decimal con 20 decimales, ceros a la izquierda (007) y 12.0
+T04  APROBADO  Cadenas: vacía, con '//' dentro, con \t y con comilla escapada
+T05  APROBADO  Caracteres literales: 'a' '9' '\n' '\\' '\''
+T06  APROBADO  Mayor coincidencia en bordes: a+++b, x=-1, i---j
+T07  APROBADO  Comentarios: '// /*' no abre bloque; '/* a /* b */' no anida
+T08  APROBADO  Comentario de bloque sin cerrar tras código válido (Regla 3, línea 2)
+T09  APROBADO  Seis errores combinados en una sola línea; el análisis continúa
+T10  APROBADO  Los 10 delimitadores ( ) { } [ ] ; , . :
+T11  APROBADO  Cadena con salto de línea real: dos errores de la Regla 2 en líneas distintas
+T12  APROBADO  Estrés: 10 000 líneas (50 000 tokens, 10 000 símbolos) en menos de 5 s
+T13  APROBADO  Exportación CSV: escape de comillas/comas y protección de '=' contra fórmulas
+T14  APROBADO  Exportación HTML: escapa '<' y '&' y no inyecta etiquetas
+T15  APROBADO  BOM al inicio y tabulador: 'int' en la columna 2; el BOM no es un error
+T16  APROBADO  Regla 9: falta ';' al final de la línea 1 (después de 5, en 1,9); la línea 2 está bien
+T17  APROBADO  Regla 8: '{' sin cerrar (1,10) y '}' sin abrir (1,12)
+T18  APROBADO  Regla 10: falta '(' después de 'if' y falta '{' en la clase
+T19  APROBADO  Regla 11: falta '=' o un operador entre operandos, operando faltante y '=' dentro de if
+T20  APROBADO  Los archivos de prueba válidos no producen errores de estructura
+T21  APROBADO  Diccionario editable: con palabras en español 'entero' pasa a ser reservada y tipo de dato
+T22  APROBADO  AFD 'termina en ab': acepta aab, rechaza abb y vacía; símbolo fuera del alfabeto es error
+T23  APROBADO  AFD parcial: la celda vacía bloquea el hilo (Bloqueado) y la cadena se rechaza
+T24  APROBADO  AFND 'termina en ab': 'abab' tiene 4 hilos y acepta; conjuntos {q0},{q0,q1},{q0,q2}
+T25  APROBADO  AFND con ε (Σ*ab): el cierre-ε inicial es {q0,q1}; 'aab' acepta y hay un hilo con transición ε
+T26  APROBADO  Validación de la definición: AFD con 2 destinos, sin estado inicial y estado inexistente
+T27  APROBADO  Aristas: las transiciones q0-a->q0 y q0-b->q0 se agrupan en una sola arista con etiqueta 'a,b'
+T28  APROBADO  Límite de hilos: a^12 en un AFND con bifurcación total se trunca en 300 hilos
+
+RESUMEN: 44 casos, 44 aprobados, 0 fallidos.

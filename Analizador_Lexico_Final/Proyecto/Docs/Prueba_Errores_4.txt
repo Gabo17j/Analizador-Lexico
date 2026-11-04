@@ -1,0 +1,6 @@
+int x = 3;
+int y = x & 2;
+int z = x | 1;
+char v = '';
+/* comentario
+sin cerrar

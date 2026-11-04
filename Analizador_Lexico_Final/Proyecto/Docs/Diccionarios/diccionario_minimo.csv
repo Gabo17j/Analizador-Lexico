@@ -1,0 +1,11 @@
+Palabra,EsTipoDeDato
+if,0
+else,0
+while,0
+for,0
+return,0
+int,1
+float,1
+string,1
+true,0
+false,0

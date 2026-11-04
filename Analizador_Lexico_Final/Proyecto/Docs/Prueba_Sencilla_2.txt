@@ -1,0 +1,5 @@
+// Prueba Sencilla 2 - Tipos primitivos
+double precio = 12.5;
+bool activo = true;
+string nombre = "Ana";
+char letra = 'A';
